@@ -10,7 +10,8 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    FormsModule
+/**delete at end of video 7 lesson 1
+     FormsModule**/
   ],
   providers: [],
   bootstrap: [AppComponent]
